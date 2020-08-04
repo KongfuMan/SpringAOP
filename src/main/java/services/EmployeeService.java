@@ -15,4 +15,8 @@ public class EmployeeService {
     public void deleteEmployee(String empId) {
 
     }
+
+    public void throwException() throws IllegalAccessException {
+    	throw new IllegalAccessException();
+	}
 }

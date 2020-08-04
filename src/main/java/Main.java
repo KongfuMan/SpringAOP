@@ -15,5 +15,11 @@ public class Main {
         String name = "liangchen";
         String id = "123123";
         service.createEmployee(name, id);
+
+        try {
+        	service.throwException();
+		}catch (Exception ex){
+			System.out.println("Exception caught");
+		}
     }
 }
