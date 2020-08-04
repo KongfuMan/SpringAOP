@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/AutoCompleteService" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Courses/Security/INFSCI2150" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/spring-session-2.3.0.RELEASE" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/untitled folder" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Algorithm" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Android-BluetoothSPPLibrary" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../AutoComplete/backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../StudySpringBootSourceCode" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../TinyURL" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Twitter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../TypeAhead" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Uber" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../UserSystem" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../WhatsApp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../boot-react" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../halo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-boot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Server" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="991" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
